@@ -1,0 +1,50 @@
+<style>
+    .form-group {
+        margin-bottom: 1rem;
+    }
+    .form-label {
+        margin-bottom: 0.5rem;
+    }
+    .no-scroll {
+        overflow-x: hidden;
+    }
+</style>
+
+<div class="row justify-content-center">
+    <div class="col-md-6 no-scroll">
+        <form class="center-form" method="post" action="https://forms.un-static.com/forms/1d2a737fbbe69c9a383da96282182bc4a3fbf87c">
+
+            <div class="form-group row">
+                <label for="name" class="col-4 col-form-label form-label">Name / Org.:</label>
+                <div class="col-8">
+                    <div class="input-group">
+                        <div class="input-group-addon">
+                            <i class="fa fa-user"></i>
+                        </div>
+                        <input id="name" name="name" placeholder="Name" type="text" required="required" class="form-control">
+                    </div>
+                </div>
+            </div>
+            <div class="form-group row">
+                <label for="email" class="col-4 col-form-label form-label">E-mail:</label>
+                <div class="col-8">
+                    <div class="input-group">
+                        <div class="input-group-addon">
+                            <i class="fa fa-envelope"></i>
+                        </div>
+                        <input id="email" name="email" placeholder="E-mail" type="text" required="required" class="form-control">
+                    </div>
+                </div>
+            </div>
+            <div class="form-group row">
+                <label for="message" class="col-4 col-form-label form-label">Nachricht:</label>
+                <div class="col-8">
+                    <textarea id="message" name="message" cols="40" rows="5" required="required" class="form-control"></textarea>
+                </div>
+            </div>
+            <div class="form-group row justify-content-center">
+                <button name="submit" type="submit" class="btn btn-primary">→ Schicken ←</button>
+            </div>
+        </form>
+    </div>
+</div>

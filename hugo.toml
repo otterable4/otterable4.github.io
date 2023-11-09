@@ -1,0 +1,91 @@
+baseurl = "https://example.com"
+copyright = "v.1.0.0, 21.10.2023"
+enablerobotstxt = true
+languagecode = "en-us"
+paginate = 50
+timezone = "America/Los_Angeles"
+titlecasestyle = "Go"
+
+[languages.en]
+title = "Stimmungskompass"
+weight = 10
+
+[[languages.en.menu.main]]
+identifier = "home"
+name = "Über"
+url = "/"
+weight = 10
+
+
+[[languages.en.menu.main]]
+identifier = "demo"
+name = "Demo"
+url = "/demo/"
+weight = 15
+
+[languages.en.menu.main.params.paige]
+divider_below = true
+
+[[languages.en.menu.main]]
+identifier = "bewohner"
+name = "Bewohner"
+parent = "demo"
+url = "/demo/bewohner/"
+weight = 10
+
+[[languages.en.menu.main]]
+identifier = "admin"
+name = "Admin"
+parent = "demo"
+url = "/demo/admin/"
+weight = 20
+
+[[languages.en.menu.main]]
+identifier = "content"
+name = "Verwendung"
+url = "/verwendung/"
+weight = 20
+
+
+
+[[languages.en.menu.main]]
+identifier = "kosten"
+name = "Kosten"
+url = "/kosten/"
+weight = 65
+
+
+
+[[languages.en.menu.main]]
+identifier = "datenexport"
+name = "Datenexport"
+url = "/datenexport/"
+weight = 60
+
+[[languages.en.menu.main]]
+identifier = "bestellen"
+name = "Bestellen"
+url = "/bestellen/"
+weight = 70
+
+
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+noclasses = false
+
+[markup.tableofcontents]
+endlevel = 6
+ordered = true
+startlevel = 2
+
+[[module.imports]]
+path = "github.com/willfaught/paige"
+
+[outputs]
+home = ["atom", "html", "json", "rss"]
+section = ["atom", "html", "rss"]
+taxonomy = ["atom", "html", "rss"]
+term = ["atom", "html", "rss"]
