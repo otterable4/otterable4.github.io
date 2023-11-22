@@ -17,13 +17,20 @@ paige:
     }
 
 title: "Stimmungskompass"
-
 ---
 
 
 
 
 
+
+<style>
+@media (max-width: 800px) {
+    #paige-title {
+        font-size: 3rem; /* Smaller font size for mobile */
+    }
+}
+</style>
 <style>
   .fixed-alert {
     position: fixed;
