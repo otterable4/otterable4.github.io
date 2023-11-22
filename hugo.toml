@@ -1,5 +1,5 @@
-baseurl = "https://example.com"
-copyright = "v.1.0.0, 21.10.2023"
+baseurl = "https://otterable4.github.io"
+copyright = "v.1.0.1, 22.11.2023"
 enablerobotstxt = true
 languagecode = "en-us"
 paginate = 50
