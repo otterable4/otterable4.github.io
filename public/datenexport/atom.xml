@@ -1,0 +1,95 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed  xml:lang="en"  xmlns="http://www.w3.org/2005/Atom">
+    
+
+    
+
+    <id>https://otterable4.github.io/datenexport/atom.xml</id>
+
+    
+        
+
+        
+            
+        
+
+        
+            <link href="https://otterable4.github.io/datenexport/atom.xml" rel="self" type="application/atom+xml"/>
+        
+    
+        
+
+        
+            
+        
+
+        
+            <link href="https://otterable4.github.io/datenexport/" rel="alternate" type="text/html"/>
+        
+    
+        
+
+        
+
+        
+            <link href="https://otterable4.github.io/datenexport/rss.xml" rel="alternate" type="application/rss+xml"/>
+        
+    
+
+    
+
+    
+
+    
+        <rights type="html"><![CDATA[v.1.0.1, 22.11.2023]]></rights>
+    
+
+    
+        <subtitle type="html"><![CDATA[Stimmungskompass verwendet das GeoJSON-Format und gewährleistet so eine umfassende Kompatibilität und unbegrenzte Bearbeitung.]]></subtitle>
+    
+
+    <title type="html"><![CDATA[Datenexport · Stimmungskompass]]></title>
+    <updated>2023-09-24T21:29:31-07:00</updated>
+
+    
+</feed>

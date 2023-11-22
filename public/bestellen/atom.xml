@@ -1,0 +1,95 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed  xml:lang="en"  xmlns="http://www.w3.org/2005/Atom">
+    
+
+    
+
+    <id>https://otterable4.github.io/bestellen/atom.xml</id>
+
+    
+        
+
+        
+            
+        
+
+        
+            <link href="https://otterable4.github.io/bestellen/atom.xml" rel="self" type="application/atom+xml"/>
+        
+    
+        
+
+        
+            
+        
+
+        
+            <link href="https://otterable4.github.io/bestellen/" rel="alternate" type="text/html"/>
+        
+    
+        
+
+        
+
+        
+            <link href="https://otterable4.github.io/bestellen/rss.xml" rel="alternate" type="application/rss+xml"/>
+        
+    
+
+    
+
+    
+
+    
+        <rights type="html"><![CDATA[v.1.0.1, 22.11.2023]]></rights>
+    
+
+    
+        <subtitle type="html"><![CDATA[Wir passen uns voll und ganz den Bedürfnissen Ihrer Gemeinde an.]]></subtitle>
+    
+
+    <title type="html"><![CDATA[Interesse an unserem Produkt? · Stimmungskompass]]></title>
+    <updated>2023-09-24T21:29:31-07:00</updated>
+
+    
+</feed>
