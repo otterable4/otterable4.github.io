@@ -5,10 +5,10 @@ languagecode = "en-us"
 paginate = 50
 timezone = "America/Los_Angeles"
 titlecasestyle = "Go"
-
 [languages.en]
 title = "Stimmungskompass"
 weight = 10
+theme = "paige"
 
 [[languages.en.menu.main]]
 identifier = "home"
