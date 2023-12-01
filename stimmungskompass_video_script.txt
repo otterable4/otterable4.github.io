@@ -1,0 +1,38 @@
+
+
+
+Videoskript:
+
+
+-------
+1. Teil
+
+Slide title: Erstellen von Beiträgen
+Placing markers:
+
+Videobeschreibung:
+Wählen Sie zuerst einer der Kategorien von der Liste rechts.  Klicken Sie dann auf die Karte genau auf den Ort, wo sie eine Markierung platzieren wollen. Fügen Sie eine Textbeschreibung hinzu. Klicken Sie auf "Posten". Fertig!
+Zusätzlich können Sie unten unterschiedeliche Formen auswählen, um ganze Bereiche zu markieren. Sie können auf der Karte zoomen und die Ansicht auf Satellitenbild umstellen.
+
+-------
+2. Teil
+
+Slide title: Ansehen von Beitragen
+
+Description inside of the video:
+Um Beiträge anderer Nutzer einzusehen, klicken Sie einfach auf die Markierung oder den markierten Bereich.
+Alternativ können Sie auf <insert icon PNG here> klicken, umn eine Liste aller Beiträge zu sehen. Es gibt auch eine Filterfunktion.
+
+
+
+-------
+3. Teil
+
+Slide title: Weitere Funktionen
+
+Description inside of the video:
+Der Stimmungskompass beietet ein paar weitere Möglichkeiten zur Navigation.
+In der Leiste oben im Kartenbereich sehen Sie die Anzahl der Beiträge je nach Kategorie. Klicken Sie auf den farbigen Kreis, um alle Beiträge dieser Kategorie aus- oder einzublenden!
+Zusätzlich können Sie zwischen dem hellen und dunklen Layout wechseln, je nach Präferenz.
+Wenn Sie Interesse haben, können Sie alle Beiträge auch als <stimmungskompass.at>/export-geojson Datei herunterladen.
+

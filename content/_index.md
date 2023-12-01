@@ -41,7 +41,7 @@ title: "Stimmungskompass"
 
 <p>{{% paige/image alt="Molens♥" title="Molens" class="object-fit-cover rounded-4" fetchpriority="high" height="20rem" loading="eager" process="webp" src="overlay.jpg" width="100%" %}}</p>
 
-<p class="display-5 fw-bold h2 text-center">Find out, what is troubling people in your town.</p>
+<p class="display-5 fw-bold h2 text-center">.</p>
 
 
 
@@ -49,57 +49,54 @@ title: "Stimmungskompass"
 ---
 
 
-## It is a tool through which the opinion of residents can be collected, about the places where they live.
+## Mit dem Stimmungskompass können Meinungen und Feedback zu Orten in der Gemeinde von den Bewohnern eingeholt werden.
 
-##### It can be considered an important part of participatory planning.
+##### Er dient zur Bürgerbeiteiligung und -befragung in Bereichen wie:
 
-##### The results can be used for planning:
 
-- new investments
-- improvements to public transport
-- beautifying / bettering the public space
-- and as well as to bettering the public image/opinion of the gemeinde.
-
----
-
-# How it can be used:
-
-## The usage is very simple, both for the resident, and for the administrator.
-
-##### for the resident:
-
-- User selects a category of notice
-- User marks the part of the map, to which his notice is related. He then writes a notice.
-- The notice is saved and visible for all other users.
-- Ability to change between map and satellite view.
-- Ability to toggle visibility of pins by type.
-
-##### The ways he can mark the map are:
-- pins (with note)
-- rectangles (with note)
-
-##### for the administrator:
-- Everything from the user version, plus:
-- Ability to manage all pins
-- Export pins and rectangles (category, all, GeoJSON file)
-- Import pins and rectangles (GeoJSON file)
-- Delete pins and rectangles (single, by category, all)
-- Mark pins as important (single pin)
-- Rename and recolor existing pins and categories
-- Create and delete categories
-- Resize pins
-- Replace text of the website
-- Replace header picture
-
-##### All features are very simple to use.
+- Umgestaltung von öffentlichen Plätzen und  Straßen
+- Verbesserungen im öffentlichen Verkehr
+- allgemeine Verbesserung des Stadtbilds für Einwohner
+- Attraktivierung von touristischen Destinationen
 
 ---
 
-# Features?
+# So funktioniert es:
 
-- Mobile version (layout)
-- Mobile app (Android)
+## Die Bedienung ist einfach und erlaubt unterschiedliche Funktionen für Administrator (Stadtverwaltung) und Bewohner:
 
-##### As a tool intended for public use, it is important that the content of the website is abuse-proof.
+##### Für Bewohner:
 
-- Spam, link and vulgarity filter
+- Wählen einer Kategorie für einen Beitrag(z.B. Verkehr, Beschwerde, Lob)
+- Wählen eines Ortes oder Bereichs auf  der Stadtkarte und Verfassen einer Notiz
+- Die Notiz wird gespeichert und ist für alle einsehbar.
+- Ändern der Kartenansicht zwischen Standard und Satellit.
+- Anzeigen oder unsichtbar machen von Notizen zur besseren Übersicht.
+
+##### Es gibt zwei Arten von Beiträgen:
+- Markierte Orte als Punkt("Pin") mit einer Notiz
+- Markeierte Bereiche in Form von Kreisen, Rechtecken oder frei gewählten Formen mit einer Notiz
+
+##### Für den Administrator:
+- Alles, was Bewohner können und zusätzlich:
+- Export von Beiträgen (nach Kategorien oder alle, als GeoJSON file)
+- Import von Beiträgen (nach Kategorien oder alle, als GeoJSON file)
+- Löschen von Beiträgen (nach Kategorien oder alle, als GeoJSON file)
+- Markieren von Beiträgen als wichtig (einzeln ausgewählt)
+- Ändern der Kategorie eines Beitrags (einzeln ausgewählt)
+- Hinzufügen und löschen von Kategorien
+- Einfache Änderungen von Text auf der Website 
+- Ändern des Titelbilds der Website
+
+
+---
+
+# Versionen:
+
+- Website mit Computer- und Mobillayout
+- Android app
+- iOS app 
+
+##### Zusätzliche Funktionen:
+
+- Filter für Spam, Links und unangemessene Wörter

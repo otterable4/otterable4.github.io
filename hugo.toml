@@ -49,9 +49,9 @@ weight = 20
 
 
 [[languages.en.menu.main]]
-identifier = "kosten"
-name = "Kosten"
-url = "/kosten/"
+identifier = "Preis"
+name = "Preis"
+url = "/Preis/"
 weight = 65
 
 
@@ -63,9 +63,9 @@ url = "/datenexport/"
 weight = 60
 
 [[languages.en.menu.main]]
-identifier = "bestellen"
-name = "Bestellen"
-url = "/bestellen/"
+identifier = "Kontakt"
+name = "Kontakt"
+url = "/Kontakt/"
 weight = 70
 
 
