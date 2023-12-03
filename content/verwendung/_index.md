@@ -36,7 +36,7 @@ title: "Verwendung"
 ---
 ---
 
-## As user
+## Als Bewohner/in
 
 - Video walkthrough
 ---
@@ -79,7 +79,7 @@ title: "Verwendung"
 ---
 ---
 
-## As admin
+## Als Admin
 
 ---
 ---
