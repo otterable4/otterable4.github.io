@@ -46,4 +46,4 @@ tags: ["Proposal", "Arduino", "Instructional Unit"]
 
 ## Zahlungsoptionen
 
-- Auf Rechnung oder per Bankeinzug, auf Wunsch auch per Ratenyahlung 
+- Auf Rechnung oder per Bankeinzug, auf Wunsch auch per Ratenzahlung 
