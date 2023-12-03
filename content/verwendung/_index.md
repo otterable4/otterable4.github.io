@@ -43,30 +43,37 @@ title: "Verwendung"
 
 ---
 
-### Placing a pin
+### Beitrag hinzufügen 
 
-{{< paige/youtube "X6Hr0rI9qOM" >}}
-
----
----
-
-### Placing a rectangle
-
-- Video showcase
+{{< paige/youtube "jOn6rqwYwOI" >}}
 
 ---
 ---
 
-### Changing map and satellite view
+### Kartenansicht ändern 
 
-{{< paige/youtube "X6Hr0rI9qOM" >}}
+{{< paige/youtube "KybYC6qdMfE" >}}
 
 ---
 ---
 
-### Toggling visibility of pins by type
+### Beitragskategorien filtern 
 
-{{< paige/youtube "m93vvbUXbvw" >}}
+{{< paige/youtube "xKTevdq1w3k" >}}
+
+---
+---
+
+### Hell-/Dunkelmodus umschalten
+
+{{< paige/youtube "9uRmF5uJ5qk" >}}
+
+---
+---
+
+### Liste aller Beiträge anzeigen
+
+{{< paige/youtube "lmPTprpOS0E" >}}
 
 ---
 ---
@@ -74,83 +81,87 @@ title: "Verwendung"
 
 ## As admin
 
-- Video walkthrough
+---
+---
+
+### GeoJSON-Daten exportieren
+
+{{< paige/youtube "tNEGpD5GYxU" >}}
 
 ---
 ---
 
-### Exporting pins (GeoJSON file)
+### GeoJSON-Daten importieren
 
-{{< paige/youtube "rzeyMB_zAa8" >}}
-
----
----
-
-### Import pins and rectangles (GeoJSON file)
-
-{{< paige/youtube "o1NgrpV8wrE" >}}
+{{< paige/youtube "T_8dUXO23Zw" >}}
 
 ---
 ---
 
-### Delete pins and rectangles (single, by category, all)
+### Beiträge löschen (einzelne)
 
-{{< paige/youtube "2Gucilubed8" >}}
-
----
----
-
-### Mark pins as important (single pin)
-
-{{< paige/youtube "UPyxAVg-E00" >}}
+{{< paige/youtube "YAvpL_vlrrg" >}}
 
 ---
 ---
 
-### Rename existing pins and categories
-
-{{< paige/youtube "yvkBIftmNsM" >}}
-
----
----
-
-### Recolor existing pins and categories
+### Beiträge löschen (Gruppen)
 
 - Video showcase
 
 ---
 ---
 
-### Create and delete categories
+### Markierungstypen umschalten 
+
+{{< paige/youtube "7054iXIsroA" >}}
+
+---
+---
+
+### Bild ersetzen
+
+- Video showcase
+
+{{< paige/youtube "j47ZOvoVtE8" >}}
+
+---
+---
+
+### Beitragskategorie umfärben
+
+{{< paige/youtube "R612vfdITF4" >}}
+
+---
+---
+
+### Beitragskategorie umbennen 
+
+{{< paige/youtube "RFxjlew-Zag" >}}
+
+---
+---
+
+### Beitragskategorie hinzufügen
 
 - Video showcase
 
 ---
 ---
 
-### Resize pins
-
-{{< paige/youtube "mD8q8YiThwo" >}}
-
----
----
-
-### Replace text of the website
+### Beitragskategorie löschen
 
 - Video showcase
 
 ---
 ---
 
-
-### Replace header picture
+### Beitrag als wichtig markieren
 
 - Video showcase
 
-
 ---
 ---
-
 
 ### Hosting and software deployment
 - This software is written in Python, and uses open-source libraries, which are fully suited for commercial use.
